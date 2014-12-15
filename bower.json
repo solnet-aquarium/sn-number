@@ -1,0 +1,22 @@
+{
+  "name": "sn-number",
+  "main": "src/sn-number.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/solnetdigital/sn-number",
+  "authors": [
+    "michael.robinson@solnet.co.nz"
+  ],
+  "description": "Angular JS directive that restricts an input value to a number",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.4",
+    "angular-mocks": "*"
+  }
+}
