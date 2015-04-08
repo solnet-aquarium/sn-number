@@ -19,4 +19,3 @@ Angular JS directive that restricts an input's value to a number.
 ```JavaScript
 angular.module('yourApp', ['snNumber']);
 ```
-
